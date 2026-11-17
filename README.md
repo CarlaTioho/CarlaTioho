@@ -16,14 +16,8 @@ Information Systems student at **Universitas Multimedia Nusantara** with a focus
 
 ### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
 **Languages & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Deep Learning & Computer Vision**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%20%7C%20YOLOv11%20%7C%20YOLOv12-00FFFF?style=for-the-badge&logoColor=black)
 
 **Data Visualization, BI & Deployment**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -39,8 +33,6 @@ Information Systems student at **Universitas Multimedia Nusantara** with a focus
 **Design & Research**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-7C3AED?style=for-the-badge)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
-![IEEE](https://img.shields.io/badge/PRISMA%20%26%20IEEE%20SLR-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
@@ -52,8 +44,6 @@ A deep learning project that compares modern object detectors for automatically 
 - **Dataset:** Custom-collected helmet / no-helmet images, including tricky cases like hoodies, beanies, and bicycle helmets.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![RT-DETR](https://img.shields.io/badge/RT--DETR-7C3AED?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4B5563?style=flat-square)
 
 #### 2. 🧠 MentalUX: Online Psychology Consultation Platform
@@ -69,7 +59,6 @@ A mental health consultation website that connects users with verified psycholog
 - **My Contribution:** Problem identification & objectives, system architecture, business flow chart, value proposition metrics, EVP summary, investment proposition, and SDLC methodology.
 
 ![Figma](https://img.shields.io/badge/Figma%20Prototype-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![R](https://img.shields.io/badge/R%20%2F%20RStudio-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-7C3AED?style=flat-square)
 ![SDLC](https://img.shields.io/badge/Waterfall%20SDLC-4B5563?style=flat-square)
 ![E-Business](https://img.shields.io/badge/E--Business-2563EB?style=flat-square)
@@ -102,7 +91,6 @@ A data modeling project that classifies chest X-ray images as **Normal** or **CO
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 ![CNN](https://img.shields.io/badge/CNN-D00000?style=flat-square&logo=keras&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 #### 5 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
   * **Data Preparation & Transformation:** Processed the United Nations Comtrade (*Global Commodity Trade Statistics*) dataset by filtering temporal scopes (2010–2016), cleaning missing/duplicate records, and creating custom calculated fields (`Trade Direction` mapping Import/Export into Inbound/Outbound flows).
