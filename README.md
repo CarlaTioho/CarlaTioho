@@ -16,21 +16,31 @@ Information Systems student at **Universitas Multimedia Nusantara** with a focus
 
 ### 🛠️ Tech Stack & Tools
 
+### 🛠️ Tech Stack & Tools
+
 **Languages & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Deep Learning & Computer Vision**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%20%2F%20YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv8%20%7C%20YOLOv11%20%7C%20YOLOv12-00FFFF?style=for-the-badge&logoColor=black)
 
-**Research & Enterprise Tools**
+**Data Visualization, BI & Deployment**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query%20ETL-F2C811?style=for-the-badge&logoColor=black)
+
+**Data Warehouse & System Analysis**
+![Star Schema](https://img.shields.io/badge/Star%20Schema-4B5563?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-0EA5E9?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-0EA5E9?style=for-the-badge)
+![CRISP-DM](https://img.shields.io/badge/CRISP--DM-4B5563?style=for-the-badge)
+
+**Design & Research**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-7C3AED?style=for-the-badge)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
 ![IEEE](https://img.shields.io/badge/PRISMA%20%26%20IEEE%20SLR-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-
 ---
 
 ### 🚀 Featured Projects
@@ -104,3 +114,15 @@ A data modeling project that classifies chest X-ray images as **Normal** or **CO
     <img src="https://img.shields.io/badge/📊_View_Dashboard-Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public Dashboard" />
   </a>
 </p>
+
+#### 6. 🎓 Data Warehouse for Scopus Publication Analytics
+A data warehouse and Power BI analytics project that consolidates lecturer master data and Scopus export files at **Universitas Multimedia Nusantara** (2020-2025) into a single source of truth for monitoring research performance. Built as a team for the **IS545** course.
+
+- **ETL & Data Quality:** Built an end-to-end ETL pipeline in **Power Query**, covering data cleansing (name standardization, lecturer and publication deduplication) and data conforming (standardized publication types, venues, and CiteScore quartiles).
+- **Dimensional Modeling:** Designed a **star schema** with fact tables (FactPublication, FactPublicationAuthor) and conformed dimensions (lecturer, study program, faculty, venue, publication type, date), including surrogate keys and Slowly Changing Dimensions.
+- **Dashboards:** Built a **Power BI** semantic model and interactive reports for quartile performance by faculty, publication trends per study program, and cross-program collaboration.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-0EA5E9?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL%20%7C%20Star%20Schema-4B5563?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-4B5563?style=flat-square)
