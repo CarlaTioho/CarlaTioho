@@ -93,3 +93,14 @@ A data modeling project that classifies chest X-ray images as **Normal** or **CO
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 ![CNN](https://img.shields.io/badge/CNN-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+#### 5 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
+  * **Data Preparation & Transformation:** Processed the United Nations Comtrade (*Global Commodity Trade Statistics*) dataset by filtering temporal scopes (2010–2016), cleaning missing/duplicate records, and creating custom calculated fields (`Trade Direction` mapping Import/Export into Inbound/Outbound flows).
+  * **Multi-Dashboard Architecture:** Designed and built **3 core interactive dashboards** in **Tableau** covering *Global Geographic Trade Distribution* (Choropleth World Map & Ranking Bar Chart), *Temporal Trade Value Trends* (Multi-Series Line Chart, Area Chart, & Highlight Table), and *Dominant Commodity Composition* (Bubble Chart & Category Distribution).
+  * **Interactive Data Storytelling:** Integrated dynamic filters, tooltips, and visual highlights into a cohesive Tableau Story to explore global trade concentration, food security commodities, and market fluctuations across countries.
+
+<p align="left">
+  <a href="https://public.tableau.com/views/AnalisisdanVisualisasiPerdaganganKomoditasGlobal20102016/STORYFIX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://img.shields.io/badge/📊_View_Dashboard-Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public Dashboard" />
+  </a>
+</p>
