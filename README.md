@@ -6,10 +6,10 @@
 ---
 
 ### 🧑‍💻 About Me
-I am an Information Systems student passionate about **Machine Learning, Deep Learning, Systematic Literature Research, and IT Service Management**. I enjoy bridging data-driven predictive modeling with real-world web deployments and structured enterprise frameworks.
+Information Systems student at **Universitas Multimedia Nusantara** with a focus on **Big Data Analytics**, **System Analysis**, **Business Analysis**, and **Data Modeling**. I enjoy turning data and business problems into structured analysis, predictive models, and well-designed systems, from machine learning experiments to full system design and UX research.
 
-- 🔭 **Currently working on:** My undergraduate thesis (*Sempro*) & IEEE Systematic Literature Review comparing **Random Forest, XGBoost, and Logistic Regression** for multi-class sleep disorder risk classification based on lifestyle metrics.
-- 🤝 **Campus Involvement:** Active member of **HIMSI (Himpunan Mahasiswa Sistem Informasi) UMN** — experienced in event organizing, public speaking, and inter-university collaborations.
+- 🔭 **Currently working on:** My undergraduate thesis (*Sempro*) and an IEEE Systematic Literature Review comparing **Random Forest, XGBoost, and Logistic Regression** for multi-class sleep disorder risk classification based on lifestyle metrics.
+- 🤝 **Campus Involvement:** **Vice Chair of HIMSI** (Himpunan Mahasiswa Sistem Informasi) UMN, Generation 16, and **Supervisor of the Academic Division**. Through this I sharpen my leadership, communication, public speaking, and event organizing skills.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/carla-tioho-6a6b52324/)
 
 ---
