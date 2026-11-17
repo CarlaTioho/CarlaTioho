@@ -38,4 +38,3 @@ I am an Information Systems student passionate about **Machine Learning, Deep Le
 A comparative computer vision study evaluating baseline object detection architectures for workplace safety compliance.
 - **Models Evaluated:** **YOLOv11**, **YOLOv8**, and **R-CNN**.
 - **Focus:** Comparing inference speed, detection accuracy (mAP), and real-world robustness on safety helmet datasets.
-- 🔗 [View Repository](#) *(ganti dengan link repo kamu)*
