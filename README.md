@@ -56,7 +56,6 @@ A mental health consultation website that connects users with verified psycholog
 - **UX Research:** Design Thinking (Empathize → Define → Ideate → Prototype → Test) using the **5/5/5 concept** (5 journals, 5 similar websites, 5 interviewees), plus surveys, observation, personas, wireframes, and iterative revisions based on user feedback (login/reset-password flow, booking flow, UI consistency, rating feature).
 - **Business & Strategy:** Market potential, competitor benchmarking (6 platforms), customer segmentation, SWOT, USP/EVP, investment proposition, revenue & cost projection, and a TikTok marketing campaign plan.
 - **System Design:** Waterfall SDLC with use case & activity diagrams, business flow chart, and a security plan (risk assessment, WAF, security audit).
-- **Validation (R / RStudio):** Average user rating of **4.33 / 5** (median 4, mode 4). A one-sample t-test against μ = 4 showed ratings significantly above the benchmark (**t = 6.02, p < 0.001, 95% CI 4.22–4.44**). Exhibition respondents also gave positive feedback on usability, feature completeness, and the AI consultation feature.
 - **My Contribution:** Problem identification & objectives, system architecture, business flow chart, value proposition metrics, EVP summary, investment proposition, and SDLC methodology.
 
 ![Figma](https://img.shields.io/badge/Figma%20Prototype-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -74,7 +73,7 @@ A mobile app design for **CRT (Cilangkap Racing Team)**, a dealer selling KTM, H
 - **System Analysis & Design:** **Use Case, Activity** (browsing, ordering, payment, stock management), and **Class Diagrams** (customer, order, payment, product, admin), plus functional and non-functional requirements.
 - **UI/UX:** Interactive **Figma** prototype of the full buying flow, from sign up and login to checkout, payment, and order confirmation.
 - **Methodology:** **Prototyping**, with user feedback driving each revision.
-- **User Testing (35 respondents):** 94.3% said the app meets mobile e-commerce standards, 97.1% found it relevant, 88.6% approved the color scheme, and the average rating was **4.47 / 5** (32 responses).
+- **User Testing :** 94.3% said the app meets mobile e-commerce standards, 97.1% found it relevant, 88.6% approved the color scheme, and the average rating was **4.47 / 5** .
 - **Iteration:** Revised based on feedback by implementing **Dark Mode** and a cart quantity adjuster.
 
 ![Figma](https://img.shields.io/badge/Figma%20Prototype-F24E1E?style=flat-square&logo=figma&logoColor=white)
